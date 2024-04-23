@@ -1,0 +1,64 @@
+﻿@model Domain.Entities.Category
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="row offset-2 CardOffset">
+    <div class="col-md-10 col-lg-10 col-sm-10 p-4 ClCard">
+
+        <!--ALERT MESSAGE-->
+        @if (TempData[Utilities.Constants.SessionConstants.Message] != null)
+        {
+            <div class="row g-3 me-0 ms-0 mt-1">
+                <div class="alert alert-warning" role="alert">
+                    @TempData[Utilities.Constants.SessionConstants.Message]
+                </div>
+            </div>
+        }
+
+        <div class="card">
+            <div class="card-body">
+
+                <!--HEADER-->
+                <div class="pagetitle">
+                    <h4 class="card-title fs-2 fw-bold mb-0">Category</h4>
+                    <p class="mb-1" style="font-size:14px">Fields marked by <span class="text-danger">*</span> are mandatory</p>
+                    <hr class="mt-0">
+                </div>
+
+                <!--CATEGORY-->
+                <form class="row g-1" method="post" asp-action="Edit" asp-controller="Categorys">
+                    <input type="text" asp-for="CategoryId" hidden />
+                    <input asp-for="CreatedBy" type="hidden" />
+                    <input asp-for="CreatedIn" type="hidden" />
+                    <input asp-for="DateCreated" type="hidden" />
+
+                    <!--CATEGORY NAME-->
+                    <div class="col-md-12 col-sm-12">
+                        <div class="form-floating mt-2">
+                            <input asp-for="CategoryName" type="text" class="form-control" data-val="true" data-val-required="Required." data-val-length-max="90" data-val-length-min="2" data-val-length="Department should be atleast 2 digits." onkeypress="return IsAlphabat(event,this);">
+                            <label class="required" asp-for="CategoryName">Category Name</label>
+                            <span asp-validation-for="CategoryName" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12">
+                        <div class="form-floating mt-2">
+                            <select asp-for="Available" class="form-select" data-val="true" data-val-required="Required.">
+                                <option value="">Select</option>
+                                <option value="true">Yes</option>
+                                <option value="false">No</option>
+                            </select>
+                            <label asp-for="Available" class="required">Is Available?</label>
+                            <span asp-validation-for="Available" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <!--ACTIONS-->
+                    <div class="col-md-12 col-sm-12 mt-0 mt-3 text-center">
+                        <button class="btn btn-primary mx-2" type="submit"><i class="bi bi-check2-circle"></i> Submit</button>
+                        <a href="/Categorys/Index" class="btn btn-secondary"><i class="bi bi-x-circle"></i> Cancel</a>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>

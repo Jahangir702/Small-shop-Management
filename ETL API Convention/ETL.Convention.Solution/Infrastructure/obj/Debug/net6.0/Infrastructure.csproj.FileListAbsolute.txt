@@ -1,0 +1,76 @@
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Utilities.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Utilities.pdb
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastr.15EFFBFE.Up2Date
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Domain.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Utilities.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Domain.pdb
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Utilities.pdb
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastr.15EFFBFE.Up2Date
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Utilities.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Utilities.pdb
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Utilities.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\bin\Debug\net6.0\Utilities.pdb
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastr.15EFFBFE.Up2Date
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

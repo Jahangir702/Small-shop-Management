@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF5BAD0-68A2-4132-854A-C58E36E1CAE7}|MVC\\MVC.csproj|d:\\daily work\\30-03-24\\etl project\\etl api convention\\etl.convention.solution\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FF5BAD0-68A2-4132-854A-C58E36E1CAE7}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024A8330-78E8-46DB-8E43-DCF5D27ABE5D}|Utilities\\Utilities.csproj|d:\\daily work\\30-03-24\\etl project\\etl api convention\\etl.convention.solution\\utilities\\constants\\generalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024A8330-78E8-46DB-8E43-DCF5D27ABE5D}|Utilities\\Utilities.csproj|solutionrelative:utilities\\constants\\generalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024A8330-78E8-46DB-8E43-DCF5D27ABE5D}|Utilities\\Utilities.csproj|d:\\daily work\\30-03-24\\etl project\\etl api convention\\etl.convention.solution\\utilities\\constants\\routeconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024A8330-78E8-46DB-8E43-DCF5D27ABE5D}|Utilities\\Utilities.csproj|solutionrelative:utilities\\constants\\routeconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF5BAD0-68A2-4132-854A-C58E36E1CAE7}|MVC\\MVC.csproj|d:\\daily work\\30-03-24\\etl project\\etl api convention\\etl.convention.solution\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF5BAD0-68A2-4132-854A-C58E36E1CAE7}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7E7F54-F461-4253-B3EB-07E6DFD48EB6}|API\\API.csproj|d:\\daily work\\30-03-24\\etl project\\etl api convention\\etl.convention.solution\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD7E7F54-F461-4253-B3EB-07E6DFD48EB6}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF5BAD0-68A2-4132-854A-C58E36E1CAE7}|MVC\\MVC.csproj|d:\\daily work\\30-03-24\\etl project\\etl api convention\\etl.convention.solution\\mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF5BAD0-68A2-4132-854A-C58E36E1CAE7}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF5BAD0-68A2-4132-854A-C58E36E1CAE7}|MVC\\MVC.csproj|d:\\daily work\\30-03-24\\etl project\\etl api convention\\etl.convention.solution\\mvc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FF5BAD0-68A2-4132-854A-C58E36E1CAE7}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF5BAD0-68A2-4132-854A-C58E36E1CAE7}|MVC\\MVC.csproj|d:\\daily work\\30-03-24\\etl project\\etl api convention\\etl.convention.solution\\mvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FF5BAD0-68A2-4132-854A-C58E36E1CAE7}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF5BAD0-68A2-4132-854A-C58E36E1CAE7}|MVC\\MVC.csproj|d:\\daily work\\30-03-24\\etl project\\etl api convention\\etl.convention.solution\\mvc\\httpservices\\productshttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF5BAD0-68A2-4132-854A-C58E36E1CAE7}|MVC\\MVC.csproj|solutionrelative:mvc\\httpservices\\productshttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralConstants.cs",
+              "DocumentMoniker": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\Utilities\\Constants\\GeneralConstants.cs",
+              "RelativeDocumentMoniker": "Utilities\\Constants\\GeneralConstants.cs",
+              "ToolTip": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\Utilities\\Constants\\GeneralConstants.cs",
+              "RelativeToolTip": "Utilities\\Constants\\GeneralConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:04:44.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConstants.cs",
+              "DocumentMoniker": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\Utilities\\Constants\\RouteConstants.cs",
+              "RelativeDocumentMoniker": "Utilities\\Constants\\RouteConstants.cs",
+              "ToolTip": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\Utilities\\Constants\\RouteConstants.cs",
+              "RelativeToolTip": "Utilities\\Constants\\RouteConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:04:36.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:04:06.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC\\appsettings.json",
+              "ToolTip": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\MVC\\appsettings.json",
+              "RelativeToolTip": "MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T14:02:21.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T14:01:41.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\MVC\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\MVC\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T01:50:54.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\MVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\MVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T01:42:08.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\MVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\MVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwIMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:28:16.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsHttpService.cs",
+              "DocumentMoniker": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\MVC\\HttpServices\\ProductsHttpService.cs",
+              "RelativeDocumentMoniker": "MVC\\HttpServices\\ProductsHttpService.cs",
+              "ToolTip": "D:\\Daily Work\\30-03-24\\ETL Project\\ETL API Convention\\ETL.Convention.Solution\\MVC\\HttpServices\\ProductsHttpService.cs",
+              "RelativeToolTip": "MVC\\HttpServices\\ProductsHttpService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAD4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:28:09.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

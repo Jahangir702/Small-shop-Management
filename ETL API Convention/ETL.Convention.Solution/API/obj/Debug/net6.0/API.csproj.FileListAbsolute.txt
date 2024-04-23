@@ -1,0 +1,932 @@
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\appsettings.Development.json
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\appsettings.json
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.exe
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.deps.json
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.pdb
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Humanizer.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Domain.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Infrastructure.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Utilities.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Infrastructure.pdb
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Domain.pdb
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Utilities.pdb
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.csproj.Up2Date
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\refint\API.dll
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.pdb
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\ExcelTechnology\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\ref\API.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\appsettings.Development.json
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\appsettings.json
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.exe
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.deps.json
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.runtimeconfig.json
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.pdb
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Humanizer.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\MessagePack.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Build.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Common.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Domain.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Infrastructure.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Utilities.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Infrastructure.pdb
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Domain.pdb
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Utilities.pdb
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets.build.json
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets.development.json
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.csproj.Up2Date
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\refint\API.dll
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.pdb
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+E:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\ref\API.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\appsettings.Development.json
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\appsettings.json
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.exe
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.deps.json
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.pdb
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Humanizer.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\MessagePack.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Build.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Common.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Domain.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Infrastructure.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Utilities.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Infrastructure.pdb
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Domain.pdb
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Utilities.pdb
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\refint\API.dll
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.pdb
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\ref\API.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\appsettings.Development.json
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\appsettings.json
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.exe
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.deps.json
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\API.pdb
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Humanizer.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\MessagePack.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Common.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Domain.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Infrastructure.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Utilities.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Infrastructure.pdb
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Domain.pdb
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\bin\Debug\net6.0\Utilities.pdb
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.csproj.Up2Date
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\refint\API.dll
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.pdb
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\Daily Work\30-03-24\ETL Project\ETL API Convention\ETL.Convention.Solution\API\obj\Debug\net6.0\ref\API.dll

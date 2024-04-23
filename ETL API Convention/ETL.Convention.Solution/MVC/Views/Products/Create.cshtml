@@ -1,0 +1,89 @@
+﻿@model Domain.Entities.Product
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="row offset-2 CardOffset">
+    <div class="col-md-10 col-lg-10 col-sm-10 p-4 ClCard">
+
+        <!--ALERT MESSAGE-->
+        @if (TempData[Utilities.Constants.SessionConstants.Message] != null)
+        {
+            <div class="row g-3 me-0 ms-0 mt-1">
+                <div class="alert alert-warning" role="alert">
+                    @TempData[Utilities.Constants.SessionConstants.Message]
+                </div>
+            </div>
+        }
+        <div class="card">
+            <div class="card-body">
+
+                <!--HEADER-->
+                <div class="pagetitle">
+                    <h4 class="card-title fs-2 fw-bold mb-0">Product</h4>
+                    <p class="mb-1" style="font-size:14px">Fields marked by <span class="text-danger">*</span> are mandatory</p>
+                    <hr class="mt-0">
+                </div>
+
+                <!--CATEGORY-->
+                <form class="row g-1" method="post" asp-action="Create" asp-controller="Products">
+                    <input type="hidden" asp-for="CategoryId" value="@ViewBag.CategoryId" />
+
+                    <!--CATEGORY NAME-->
+
+                    <div class="col-md-12 col-sm-12">
+                        <div class="form-floating mt-2">
+                            <input asp-for="ProductName" type="text" class="form-control" data-val="true" data-val-required="Required." data-val-length-max="90" data-val-length-min="2" data-val-length="Product should be atleast 2 digits." onkeypress="return IsAlphabat(event,this);">
+                            <label class="required" asp-for="ProductName">Product name</label>
+                            <span asp-validation-for="ProductName" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12">
+                        <div class="form-floating mt-2">
+                            <input asp-for="Price" type="text" class="form-control" data-val="true" data-val-required="Required." data-val-length-max="90" data-val-length-min="2" data-val-length="Product should be atleast 2 digits." onkeypress="return IsAlphabat(event,this);">
+                            <label class="required" asp-for="Price">Price</label>
+                            <span asp-validation-for="Price" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <!--ACTIONS-->
+                    <div class="col-md-12 col-sm-12 mt-0 mt-3 text-center">
+                        <button class="btn btn-primary mx-2" type="submit"><i class="bi bi-check2-circle"></i> Save</button>
+                        <a href="/Categorys/Index" class="btn btn-secondary"><i class="bi bi-x-circle"></i> Cancel</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+
+            $('#CategoryId').change(function () {
+                $('#ProductId').empty();
+                $('#ProductId').append($("<option></option>").attr("value", "").text("Please Select"));
+
+                let categoryId = $(this).val();
+                if (categoryId == "")
+                    return;
+                let url = "/Services/ProductByCategory?categoryId=" + categoryId;
+                $.ajax({
+                    url: url,
+                    cache: false,
+
+                    success: function (data) {
+                        if (data != null) {
+                            $.each(data, function (key, value) {
+                                $('#ProductId')
+                                    .append($("<option></option>")
+                                        .attr("value", value.oid)
+                                        .text(value.description));
+                            });
+                            return false;
+                        } else {
+                        }
+                    }
+                });
+            });
+        })
+    </script>
+}
